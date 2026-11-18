@@ -155,7 +155,7 @@ export default function Home() {
           
         style={{
         backgroundImage:
-           "linear-gradient(90deg, rgba(235,248,255,0.92) 0%, rgba(235,248,255,0.78) 30%, rgba(235,248,255,0.02) 65%), url('/ai-hero.png')",
+           "linear-gradient(90deg, rgba(235,248,255,0.92) 0%, rgba(235,248,255,0.78) 30%, rgba(235,248,255,0.02) 65%), url('/ai-resume-portfolio/ai-hero.png')",
             backgroundSize: "cover",
             backgroundPosition: "65% center",
             backgroundRepeat: "no-repeat",

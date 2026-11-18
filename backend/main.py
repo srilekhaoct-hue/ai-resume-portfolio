@@ -14,7 +14,8 @@ app = FastAPI(title="Mitra - Hybrid AI Resume Assistant")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=["http://localhost:3000",
+    "https://srilekhaoct-hue.github.io",],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

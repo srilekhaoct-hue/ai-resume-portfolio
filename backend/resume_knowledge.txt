@@ -1,0 +1,94 @@
+
+NAME: Srilekha Aduvala
+ROLE: AI Engineer
+LOCATION: Denton, Texas
+EMAIL: Srilekhaa198@gmail.com
+PHONE: 945-301-1255
+
+PROFESSIONAL SUMMARY
+Srilekha is an AI/ML Engineer with around 4 years of experience developing machine learning and Generative AI solutions across financial services and market intelligence domains.
+
+Her experience includes LLM-powered applications, Retrieval-Augmented Generation (RAG), agentic workflows, NLP, Python, LangChain, LangGraph, cloud AI services, REST APIs, vector databases, and data pipelines.
+
+PROFESSIONAL EXPERIENCE
+
+1. AI Engineer
+Company: American Unit Inc.
+Client: Wells Fargo
+Location: Plano, Texas
+Dates: January 2026 – Present
+
+Responsibilities:
+- Contributed to an AI-powered financial advisory copilot using Python, LangChain, and RAG for research and analysis of financial and regulatory documents.
+- Implemented document chunking, embedding generation, vector indexing, semantic search, BM25, hybrid retrieval, and reranking.
+- Worked on LangGraph multi-agent workflows coordinating document retrieval, compliance checks, and contextual responses.
+- Used AWS Bedrock, Amazon OpenSearch, and FastAPI REST APIs for LLM inference, document retrieval, and AI application functionality.
+- Worked on prompt engineering, LLM response evaluation, and retrieval optimization to improve answer relevance, grounding, and consistency.
+- Implemented PII masking, prompt tracing, audit logging, and monitoring of LLM application behavior.
+- Participated in Agile/Scrum activities using Jira.
+- Collaborated on code reviews, unit testing, debugging, and issue resolution for RAG and agentic workflows.
+
+Technology environment:
+Python, LangChain, LangGraph, RAG, LLMs, AWS Bedrock, Amazon OpenSearch, FastAPI, REST APIs, Vector Embeddings, Semantic Search, BM25, Reranking, Jira, Agile/Scrum.
+
+2. Jr. AI/ML Engineer
+Company: American Unit Pvt Limited
+Location: Hyderabad, India
+Dates: February 2021 – December 2023
+
+Responsibilities:
+- Contributed to distributed ETL pipelines using AWS Glue, Amazon EMR, and Apache Spark.
+- Processed structured and unstructured market research data for ML and NLP applications.
+- Built NLP pipelines for sentiment analysis and topic modeling.
+- Trained and evaluated machine learning and time-series forecasting models for demand patterns, pricing trends, and market fluctuations.
+- Supported Kafka and AWS Lambda integrations for automated ingestion and near-real-time analytics.
+- Contributed to workflow optimization, anomaly detection, and data quality monitoring.
+
+Technology environment:
+Python, AWS Glue, Amazon EMR, Apache Spark, Apache Kafka, AWS Lambda, Machine Learning, NLP, Time-Series Forecasting.
+
+EDUCATION
+University: University of North Texas
+Degree: Master of Science in Advanced Data Analytics with NLP
+GPA: 3.8/4.0
+Location: Denton, Texas
+
+TECHNICAL SKILLS
+
+Programming and Frameworks:
+Python, SQL, PySpark, FastAPI, Flask, REST APIs.
+
+Generative AI:
+LLMs, RAG, LangChain, LangGraph, Multi-Agent Systems, Prompt Engineering.
+
+Machine Learning and NLP:
+Scikit-learn, TensorFlow, Transformer Models, NLP, Sentiment Analysis, Topic Modeling, Time-Series Forecasting, Anomaly Detection.
+
+Search and Retrieval:
+Hybrid Search, Vector Search, BM25, Reranking.
+
+Cloud and Data Platforms:
+AWS Glue, Amazon EMR, AWS Lambda, Databricks, Apache Kafka.
+
+AI Security and Monitoring:
+PII Masking, Prompt Tracing, Drift Detection, Audit Logging, Model Monitoring.
+
+Databases:
+PostgreSQL, Amazon Redshift.
+
+Big Data and Streaming:
+Apache Spark, PySpark, Apache Kafka, Distributed Data Processing, ETL Pipelines, Real-Time Data Processing.
+
+Visualization:
+Tableau.
+
+CERTIFICATION
+AWS Certified Cloud Practitioner — AWS.
+
+ASSISTANT GUIDELINES
+- Introduce yourself as Mitra, Srilekha's AI Portfolio Assistant.
+- Answer questions based on the resume information above.
+- Explain relevant responsibilities and technologies when asked for details.
+- Do not invent achievements, numerical metrics, employers, or qualifications.
+- Do not claim a skill proficiency level that is not supported by the resume.
+- When information is unavailable, acknowledge that politely.
